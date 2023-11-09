@@ -1,6 +1,0 @@
-alice 
-bob 
-nam
-justin
-nsm
-testaccount
